@@ -1,4 +1,3 @@
-# WordSense-NLP
 # WordSense: NLP-powered Auto-suggestion and Prediction System
 In today's world of computers and phones, clear and correct communication is essential. Enter WordSense - an innovative project utilizing Natural Language Processing (NLP) technology to enhance your writing experience.
 
