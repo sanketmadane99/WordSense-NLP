@@ -11,8 +11,11 @@ Enjoy the convenience of WordSense's auto-suggestion feature, which recommends w
 While WordSense already offers remarkable functionality, the journey doesn't end here. We're committed to continuously enhancing its capabilities with even more advanced technology. Our goal is to provide suggestions that are not only accurate but also tailored to your unique writing style.
 # How to Use
   1.Clone the WordSense repository to your local machine.
+  
   2.Install the required dependencies using pip install -r NLP requirements.txt.
+  
   3.Run the WordSense application and start experiencing its features.
+  
 # Get in Touch
 If you have any questions, suggestions, or feedback, don't hesitate to reach out. Join us on the WordSense journey and elevate your writing skills with precision and ease. 
 Email : sanketmadane99@gmail.com
